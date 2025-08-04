@@ -3,7 +3,7 @@
 
 ##  Quick Start
 
-### Using Docker Compose (Recommended)
+### Using Docker Compose 
 
 ```bash
 # Clone and start
@@ -29,7 +29,7 @@ cp .env.example .env
 go run .
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 Create a `.env` file:
 
@@ -41,7 +41,7 @@ ENCRYPTION_KEY=your-32-byte-encryption-key-here12
 API_KEYS=api-key-1,api-key-2,api-key-3
 ```
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Authentication
 - `POST /api/v1/auth/login` - Login (username: admin, password: password)
