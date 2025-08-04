@@ -7,7 +7,7 @@
 
 ```bash
 # Clone and start
-git clone [<repository>](https://github.com/4ym3nn/SecretManagementSystem.git)
+git clone https://github.com/4ym3nn/SecretManagementSystem.git
 cd secret-manager
 docker-compose up --build
 ```
